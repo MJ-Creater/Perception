@@ -6,4 +6,4 @@
 
 3D空间占用栅格预测
 
-![video](.\img\video.gif)
+![video](./img/video.gif)
